@@ -2780,6 +2780,7 @@ steemherocrypto
 steemit-2018
 steemit.vine
 steemitcore
+steemitjokes18
 steemitlotteryf
 steemitloves
 steemitlovess
