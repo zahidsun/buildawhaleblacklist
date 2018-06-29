@@ -15,6 +15,7 @@ a-better-steemit
 a-bible-lover
 a-e
 a-n
+a-p
 a-poetry-fanatic
 a-steemit-upvote
 a000000memes
@@ -227,6 +228,7 @@ alfiya2
 alia11
 aliakbar2
 aliakbar2017
+aliaslightning
 aliayana
 alice44559
 alice44559 
@@ -638,6 +640,7 @@ blackskin
 blackxan
 blaineb
 blerillazari
+bless-you
 blickyer
 blindjoy
 bliss7
@@ -795,12 +798,15 @@ charlis
 charlotte89
 charm
 chayma
+che.guevara
 cheaa12
 cheneats
 cherylemmett212
 cherzzy20144
 chesed
 chess113
+chessbrah
+chessbrahbro
 chevot
 chhidami121
 chiantaerodrigue
@@ -957,6 +963,7 @@ david-beckham
 davidcisneros
 davidsmith1
 dawa
+dawkins
 dawnirisop1
 dawuwu
 dayapari
@@ -1934,6 +1941,7 @@ karishmaagarwal
 karisma1
 karkimandip44
 karl-mags
+karl-marx
 karlak
 karlbalon
 karliks
@@ -1957,6 +1965,7 @@ kaushik33565992
 kayla353570
 kaylastrickland
 kbmb69691
+keemstar
 kelleeturla
 kely
 ken.david
@@ -2038,6 +2047,7 @@ kumaran444
 kupisteemit
 kurayukamu
 kursiboncengan81
+kutcher
 kwekuabeiku
 kwncy111
 ky768xa
@@ -2071,6 +2081,7 @@ lenzy
 leoncazatt
 leondeonides
 leonmihelic1
+leotrotzki
 leoumesh
 lethaimmerman
 lettel
@@ -2191,6 +2202,7 @@ maniachch
 manish871
 manishakhan
 manjubd
+mankenntihn
 manoalejandro
 manoj1998
 manokuteun
@@ -2264,6 +2276,7 @@ masterbank
 masterbot
 masterd
 mateutz12
+mathemann
 mathildagarc
 matinoza0012
 matools
@@ -2322,6 +2335,7 @@ melly15
 melodyrule1
 memegirl
 memeon
+memesforgod
 menu1
 mercfan
 mercuribot
@@ -2688,10 +2702,12 @@ opex
 ophelion
 opoq
 oppop
+optimus-schleim
 opuahmed
 orchestrastory
 organic123
 orianresearch
+originalcontent
 osamas
 osave
 oscarjrmiranda1
@@ -2755,6 +2771,7 @@ paulabelo
 paulhasentt
 paulmerell
 paulnicole
+pawngrabberpat
 pcraty
 pdxgal
 peaches88
@@ -3233,6 +3250,7 @@ sardageoreyy
 sarminkhatun
 sasbit
 sate
+satochi
 satoshiroller
 saulchica
 saulramos
@@ -3242,6 +3260,7 @@ savemax
 savera6
 sbree
 scarybot
+schnotty
 schukinlogge
 schukinlogge 
 schulzzug
@@ -3884,6 +3903,7 @@ willpop
 willvu
 wimmelbildkanal
 winfreesteeem
+wisecrack
 wissenschaft
 wkojxy2ig
 wladimiriljitsch
@@ -3899,6 +3919,7 @@ wqxwu
 wsili
 wstanley226
 wtqrt
+wubba-lubba-dub
 www77
 wylar
 wynelli
