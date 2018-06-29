@@ -2,3 +2,4 @@ sort -u -o blacklist.txt blacklist.txt
 git add . 
 git commit -m "Update blacklist.txt"
 git push
+git diff --unified=0 HEAD^ HEAD blacklist.txt | grep -Po '(?<=^\+)(?!\+\+).*'
