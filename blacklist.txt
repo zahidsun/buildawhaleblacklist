@@ -3348,6 +3348,7 @@ prmoobot
 prodip012
 prodip0123
 promita
+promonow
 promonowanarchy
 promonowart
 promonowbitshare
